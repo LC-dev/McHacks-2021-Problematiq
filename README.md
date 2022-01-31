@@ -3,6 +3,9 @@
 ## Description
 
 A website for random exam generation based on the course, chapter, level of difficulty and number of students.
+The current version of the website is a simple proof of concept (i.e., the backend and random generation are still hardcoded). 
+
+I developed the front-end!
 
 ## Tools
 * HTML
